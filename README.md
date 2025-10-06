@@ -1,6 +1,6 @@
 # API-request-logger
 === API Request Logger ===
-Contributors: yourname
+Contributor : Kaviya Ayyappan
 Tags: api, rest api, logger, cpu, memory, performance
 Requires at least: 5.8
 Tested up to: 6.6
